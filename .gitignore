@@ -1,0 +1,8 @@
+venv/
+.env
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+RAG_Medical_Chatbot.egg-info/
+RAG_Medcal_Chatbot.egg-info/
